@@ -1,0 +1,3 @@
+Routing means deciding what to do when a user visits a specific URL.
+
+Middleware is a function that runs before the request reaches the route.
