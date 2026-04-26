@@ -3,3 +3,7 @@ dist/
 
 1_start/
 Others
+
+.env
+other.txt
+package-lock.json
